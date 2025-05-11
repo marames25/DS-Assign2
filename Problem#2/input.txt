@@ -1,0 +1,23 @@
+1
+310
+Alice Johnson
+123-456-7890
+alice@example.com
+2
+310
+2
+400
+1
+150
+Yusif Okasha
+987-654-3210
+yusif@gmail.com
+1
+210
+Maram Esmaeil
+987-654-32220
+maram@gmail.com
+2
+150
+3
+4
