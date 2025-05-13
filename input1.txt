@@ -1,0 +1,9 @@
+visit google.com
+visit wikipedia.org
+visit youtube.com
+visit youtube.com
+go_Back
+go_Back
+go_Forward
+visit facebook.com
+current_URL
